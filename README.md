@@ -1,4 +1,4 @@
-Random Person Generator
+Random Person Generators
 ---------------
 
-One of the most advanced algorithms.
+Only the most advanced algorithms.
